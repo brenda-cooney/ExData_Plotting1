@@ -1,8 +1,8 @@
 ## Intro
 
-The following repository contains files that were created as part of the Coursera 'DataScience-Exploratory Data Analysis - Project 1' course. The instruction for the assignment are listed below. They were implemented and answers/results are contained within this repository. 
+The following repository contains files and folders that were created as part of the Coursera 'DataScience-Exploratory Data Analysis - Project 1' course. The instruction for the assignment are listed below; they were implemented and answers/results are contained within the files. 
 
-Folder 'plots': Contains 4 'png' files with desired plots.
+Folder 'plots': Contains 4 'png' files with desired plots.<br>
 Folder 'r_code': contains 4 R files with code that creates above mentioned plots.
 
 ## Assignment Instructions
