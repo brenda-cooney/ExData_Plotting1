@@ -1,4 +1,11 @@
-## Introduction
+## Intro
+
+The following repository contains files that were created as part of the Coursera 'DataScience-Exploratory Data Analysis - Project 1' course. The instruction for the assignment are listed below. They were implemented and answers/results are contained within this repository. 
+
+Folder 'plots': Contains 4 'png' files with desired plots.
+Folder 'r_code': contains 4 R files with code that creates above mentioned plots.
+
+## Assignment Instructions
 
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
